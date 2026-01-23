@@ -26,9 +26,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     // AUDIO
     public AudioClip jumpClip;
-    public AudioClip AppearClip;
-    public AudioClip DissappearClip;
-    public AudioClip Background;
+    
 
     void Start()
     {
